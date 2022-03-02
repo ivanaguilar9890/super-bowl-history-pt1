@@ -1,5 +1,6 @@
 # super-bowl-history
 Primarily used the Wikipedia API alongside other Python modules to parse Super Bowl data into csv files.
+
 In part 1, I attempt to get data from the main chart that details Super Bowl championships from the following Wikipedia page:
 https://en.wikipedia.org/wiki/List_of_Super_Bowl_champions. While I could use beautifulsoup to scrape this data directly, Wikipedia has an API with community support which is better to use. In short, there is less fear that Wikipedia might impose a ban because of webscraping. 
 
