@@ -1,4 +1,4 @@
-# super-bowl-history
+# super-bowl-history-pt1
 Primarily used the Wikipedia API alongside other Python modules to parse Super Bowl data into csv files.
 
 In part 1, I attempt to get data from the main chart that details Super Bowl championships from the following Wikipedia page:
